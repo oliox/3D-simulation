@@ -1,0 +1,5 @@
+true 5000 5000 pictures/sign.png 500 500 Use WASD to move, F to create new sign, C to save current map, V to reset save 
+false 4000 4500 pictures/rock.png 200 100 
+false 3500 5000 pictures/tree.png 800 800 
+false 5000 3500 pictures/tree.png 800 800 
+false 3500 3500 pictures/tree.png 800 800 
